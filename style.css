@@ -1,0 +1,13 @@
+.heading{
+    width: 100%;
+    font-size: 23px;
+    margin-top: 0px;
+}
+.col-lg-12{
+    background-color: aliceblue;
+    width: 50%;
+    margin-left: 25%;
+}
+#camera{
+    height: 300;
+}
